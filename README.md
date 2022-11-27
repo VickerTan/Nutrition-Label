@@ -1,2 +1,5 @@
-# Nutrition-Label
-HTML &amp; CSS course
+# Info
+
+Learning Typography using CSS
+
+src: [freeCodeCamp](https://www.freecodecamp.org/)
